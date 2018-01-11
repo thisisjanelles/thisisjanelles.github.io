@@ -2,7 +2,7 @@
 layout: post
 title: Gastown, Ice Cream, and a Movie In Between
 image: /img/hello_world.jpeg
-tags: [personal]
+tags: [explore, travel]
 ---
 
 ![Gastown] (/img/gastown.jpg "Gastown")
