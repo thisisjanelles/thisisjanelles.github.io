@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Gastown, Ice Cream, and a Movie In Between
-image:
 tags: [explore, travel]
 ---
 
