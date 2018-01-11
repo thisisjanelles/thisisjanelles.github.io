@@ -5,7 +5,7 @@ image:
 tags: [explore, travel]
 ---
 
-![Gastown](https://github.com/thisisjanelles/thisisjanelles.github.io/blob/master/img/160801%20Gastown/gastown.jpg)
+![Gastown](/thisisjanelles.github.io/blob/master/img/160801%20Gastown/gastown.jpg)
 
 After living under a rock for way too long, I finally had a free day last weekend!
 
