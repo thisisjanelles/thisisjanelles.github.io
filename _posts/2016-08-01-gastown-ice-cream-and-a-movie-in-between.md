@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Gastown, Ice Cream, and a Movie In Between
-tags: [explore, travel]
+tags: [explore]
 ---
 
 ![Gastown](https://raw.githubusercontent.com/thisisjanelles/thisisjanelles.github.io/master/img/160801%20Gastown/gastown.jpg)
