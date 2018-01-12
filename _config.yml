@@ -24,6 +24,7 @@ description: Janelle's personal site/blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Portfolio: "portfolio"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -55,9 +56,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/cropped-download.jpg"
+# navbar-img: "/img/cropped-download.jpg"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/cropped-download.jpg"
 
 # --- Footer options --- #
 
