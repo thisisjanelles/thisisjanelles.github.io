@@ -6,7 +6,7 @@ subtitle: Some of my past work and projects
 
 Blue Ocean Logo Drafts (BizHacks 2016)
 
-![Blue Ocean 1](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-31-pm.png | width=100) ![Blue Ocean 2](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-21-pm.png) ![Blue Ocean 3](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-14-pm.png)
+![Blue Ocean 1](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-31-pm.png) | ![Blue Ocean 2](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-21-pm.png) | ![Blue Ocean 3](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-14-pm.png)
 
 UBC Launch Pad Business Cards and Event List Graphics
 
