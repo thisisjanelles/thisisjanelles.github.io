@@ -4,9 +4,9 @@ title: Gastown, Ice Cream, and a Movie In Between
 tags: [explore]
 ---
 
-![Gastown](https://raw.githubusercontent.com/thisisjanelles/thisisjanelles.github.io/master/img/160801%20Gastown/gastown.jpg)
-
 After living under a rock for way too long, I finally had a free day last weekend!
+
+![Gastown](https://raw.githubusercontent.com/thisisjanelles/thisisjanelles.github.io/master/img/160801%20Gastown/gastown.jpg)
 
 What initially started out as a “business” trip with my friend to scout out locations for an event we are currently putting together became a spontaneous adventure exploring Vancouver and just doing whatever we felt like at the moment and while I also enjoy planning things out, it was really refreshing to just go with the flow for once. Starting from the Vancouver Convention Centre, we first wanted to try out [Fly Over Canada](https://www.flyovercanada.com/) since neither of us had ever been on it yet. However, due to the large amount of tourists at this time of year, we were told that the wait would be over 45 minutes long and that we would have to stand in line the entire time. We weren’t willing to spend that much time waiting for just a 20 minute show so we decided to walk down to Gastown instead for something like an impromptu photo walk for our recently lacking Instagram feeds. While in Gastown, we unintentionally ended up walking far enough to end up close to [Soft Peaks](http://softpeaks.ca), a fairly new ice cream place that we, again, had never been to yet. Naturally, we got ourselves some Honeycomb Peaks - yum!
 
