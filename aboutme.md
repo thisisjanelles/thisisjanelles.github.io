@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-subtitle: A little bit about me
 ---
 
 Hi! I'm Janelle and I'm a newly converted Business and Computer Science student, design enthusiast, and a not-so-secret lover of techie things or a.k.a that mildly artsy person.
