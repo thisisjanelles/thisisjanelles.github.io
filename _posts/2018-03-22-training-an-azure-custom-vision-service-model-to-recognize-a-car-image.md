@@ -97,7 +97,7 @@ After signing in, there's a simple interface to create a new project. Clicking *
 
 From there, it was a simple matter of uploading images to train the classifier (more documentation [here](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/getting-started-build-a-classifier)). Initially I started to create different tags that identified different vehicles such as *car*, *cars* (for images with multiple cars), *bus*, and *truck*. For the hack's purposes, I modified this later to only have two tags: **car** and **notCar**. The **car** tag would only contain images of single cars while the **notCar** tag would be for everything else.
 
-![Image Training](/img/MiniHack%20Photos/image-training.png)
+![Image Training](/img/MiniHack%20Photos/image-training.PNG)
 
 However, I realized that there was no way for the Custom Vision Service to categorize everything that was not a car into **notCar**. Essentially, if you hadn't trained the model to identify a boat as **notCar**, it wouldn't be able to infer from the fact that it didn't match **car** to conclude that it should be placed into **notCar**.
 
@@ -105,6 +105,6 @@ This was a small problem as the way we had planned to program our Azure Function
 
 I tried to get over this by first just trying to train the model with as much random images as I could that would be tagged as **notCar**. This soon proved tedious and we later solved that problem programmatically in our Function instead.
 
-![Performance Test](/img/MiniHack%20Photos/performance-test.png)
+![Performance Test](/img/MiniHack%20Photos/performance-test.PNG)
 
 I trained the model until it achieved above 60%, a threshold we agreed on earlier. After this, I obtained the Prediction URL, key, and other information by clicking on the **Prediction URL** button at the top of the screen. We would need this for the next part of the hack - creating an Azure Function to call the Custom Vision Service.
