@@ -23,7 +23,7 @@ description: Janelle's personal site/blog
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
+  About Me: "aboutme"
   Portfolio: "portfolio"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
