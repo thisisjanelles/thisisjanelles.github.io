@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Training an Azure Custom Vision Service Model to Recognize a Car Image (Part 1 - 3)
+title: Training an Azure Custom Vision Service Model to Recognize a Car Image (Part 1 - 2)
 tags: [technical]
 ---
 
@@ -133,4 +133,4 @@ I trained the model until it achieved above 60%, a threshold we agreed on earlie
 After this, I obtained the Prediction URL, key, and other information by clicking on the **Prediction URL** button at the top of the screen. We would need this for the next part of the hack - creating an Azure Function to call the Custom Vision Service.
 
 {: .box-note}
-**Part 2:** [Using Azure Functions to Call the Azure Custom Vision Service](https://thisisjanelles.github.io/2018-03-24-using-azure-functions-to-call-the-azure-custom-vision-service-part-2-3/)
+**Part 2:** [Using Azure Functions to Call the Azure Custom Vision Service and Connect to CosmosDB](https://thisisjanelles.github.io/2018-03-24-using-azure-functions-to-call-the-azure-custom-vision-service-and-connect-to-cosmosdb-part-2-2/)
