@@ -107,4 +107,27 @@ I tried to get over this by first just trying to train the model with as much ra
 
 ![Performance Test](/img/MiniHack%20Photos/performance-test.PNG)
 
-I trained the model until it achieved above 60%, a threshold we agreed on earlier. After this, I obtained the Prediction URL, key, and other information by clicking on the **Prediction URL** button at the top of the screen. We would need this for the next part of the hack - creating an Azure Function to call the Custom Vision Service.
+I trained the model until it achieved above 60%, a threshold we agreed on earlier. As seen below, the JSON response from the Custom Vision Service is a lot more concise. We were able to specify exactly what classification we needed so we would only see whether it was a car or not and not have to filter through multiple other tags that were irrelevant to us.
+
+~~~
+{  
+   "Id":"ed667f19-64e3-4b23-92ce-a95f8eea44f9",
+   "Project":"91173c4e-4d0e-426e-ab2e-ae7b71f80308",
+   "Iteration":"1bd0eef6-4f1e-4aa9-b83b-7ab5c9c14568",
+   "Created":"2018-03-23T15:11:28.7004929Z",
+   "Predictions":[  
+      {  
+         "TagId":"c0bf9dcf-09ed-448f-b956-71c4fe2c6f5e",
+         "Tag":"notCar",
+         "Probability":1.8441413E-05
+      },
+      {  
+         "TagId":"70666965-666f-4da0-b8e5-e0e1fd8856de",
+         "Tag":"car",
+         "Probability":1.105892E-06
+      }
+   ]
+}
+~~~
+
+After this, I obtained the Prediction URL, key, and other information by clicking on the **Prediction URL** button at the top of the screen. We would need this for the next part of the hack - creating an Azure Function to call the Custom Vision Service.
