@@ -8,6 +8,8 @@ Following my last [post](https://thisisjanelles.github.io/2018-03-22-training-an
 
 ## Using Azure Functions to call Azure Custom Vision Service
 
+My partner and I had no previous experience using Azure Functions so we decided to each try a different way of setting up our first basic functions by following the [Azure Quickstart documentation](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-azure-function).
+
 ## Using Azure Functions to connect to CosmosDB
 
 {: .box-note}
