@@ -47,12 +47,15 @@ public class Global
 
 For the function itself, we luckily didn't have to start completely from scratch and referenced some useful documentation from Microsoft on [how to use the Custom Vision Service prediction endpoint](https://docs.microsoft.com/en-us/azure/cognitive-services/custom-vision-service/use-prediction-api) to test images programmatically with the classifier we trained earlier.
 
+Our function code is shown below with the modifications we made to the documentation sample code.
+
 ~~~
 public class AutoFunction
     {
         [FunctionName("AutoFunction")]
         public static IActionResult Run([HttpTrigger(AuthorizationLevel.Function, "get", "post", Route = null)]HttpRequest req, TraceWriter log) {
-          
+
+            // Passing in the image URL, in our case, it was a url to a file uploaded in Azure Blob Storage (done by different members of our team)
             string imageFileURL = req.Query["imageFileURL"]; ;
             var webClient = new WebClient();
             byte[] imageBytes = webClient.DownloadData(imageFileURL);
@@ -76,7 +79,7 @@ public class AutoFunction
             var client = new HttpClient();
             var jsonResponse = string.Empty;
             // Request headers - replace with your valid subscription key.
-            client.DefaultRequestHeaders.Add("Prediction-Key", "<subscription-key>");
+            client.DefaultRequestHeaders.Add("prediction-key", "<subscription-key>");
 
             // Prediction URL - replace with your valid prediction URL.
             string url = "<prediction-URL";
@@ -100,6 +103,41 @@ public class AutoFunction
 ~~~
 
 ## Using Azure Functions to connect to CosmosDB
+
+I didn't personally work on the connection to CosmosDB but I will include the code my partner worked on that added the functionality to the Azure Function we just created.
+
+We first needed an additonal class for a record in CosmosDB.
+
+~~~
+public class NoSqlRecord
+    {
+        public string id { get; set; }
+        public string imageFileURL { get; set; }
+        public string isCar { get; set; }
+    }
+~~~
+
+Using that class, we then added more code to the Run method. Unfortunately, we were not able to complete passing an actual image URL into the record within our time constraints so the code below shows imageFileURL with a test value.
+
+~~~
+Task.Run(async () =>{
+    // Do any async anything you need here without worry
+    var client = new DocumentClient(new Uri("<cosmos-db-service-endpoint>"), "<authKey");
+    
+    NoSqlRecord noSqlRecord1 = new NoSqlRecord
+    {
+        // Create a new unique GUID for each new record
+        id = Guid.NewGuid().ToString(),
+        imageFileURL = "Test with ID=TestFunction2NotCar",
+        isCar = result
+    };
+        
+        var x = await client.CreateDocumentAsync(UriFactory.CreateDocumentCollectionUri("<database-id>", "<collection-id>"), noSqlRecord1);
+    }).GetAwaiter().GetResult();
+
+~~~
+
+And now we've connected our Custom Vision function to CosmosDB! There's still a lot of things we could add and fix but our goal was to learn and, in the short time we were working on this mini-hack, I definitely learned a lot about how to work with the Azure Custom Vision Service and Azure Functions.
 
 {: .box-note}
 **Part 1:** [Training an Azure Custom Vision Service Model to Recognize a Car Image](https://thisisjanelles.github.io/2018-03-22-training-an-azure-custom-vision-service-model-to-recognize-a-car-image-part-1-2/)
