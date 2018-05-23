@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Azure Functions to Call Azure Custom Vision Service and Connect to CosmosDB (Part 2 - 2)
+title: Using Azure Functions to Call Azure Custom Vision Service and Connect to CosmosDB (C#) (Part 2 - 2)
 tags: [technical]
 ---
 
