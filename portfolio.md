@@ -19,7 +19,7 @@ SILESTONE Philippines Print Ads
 
 SEAOIL Foundation Booth Design
 
-Placeholder | Placeholder
+![SEAOIL 1](/img/Portfolio/SEAOIL Foundation Booth Design/Booth1.jpg) | ![SEAOIL 2](/img/Portfolio/SEAOIL Foundation Booth Design/Booth2.jpg)
 
 Sauder Summit Social Media Graphics
 
