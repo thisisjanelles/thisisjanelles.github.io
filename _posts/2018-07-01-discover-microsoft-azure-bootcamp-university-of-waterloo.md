@@ -22,7 +22,7 @@ The organizers set up the room nicely before people were meant to arrive.
 
 Soon, the room was filled - Heather and I were presenting to a full house!
 
-![Setup 2](/img/180727%20DiscoverAzurePresentation/Setup1.jpg)
+![Setup 2](/img/180727%20DiscoverAzurePresentation/Setup2.jpg)
 
 We kicked off the evening with a very entertaining presentation on The Evolution of Cloud by [David Martin](https://twitter.com/The_D_Martin), a Microsoft Azure Cloud Infrastructure Group Lead. It was a tough act to follow but soon, it was our turn!
 
