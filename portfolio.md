@@ -4,6 +4,10 @@ title: Portfolio
 subtitle: Some of my past work and projects
 ---
 
+Twitch Emotes
+
+![AmostsYay Twitch Emote](/img/Portfolio/Twitch Emotes/AmostsYay_112x112.png) | ![AmostsNotLikeThis Twitch Emote](/img/Portfolio/Twitch Emotes/NotLikeAmostsV2_112x112.png)
+
 Blue Ocean Logo Drafts (BizHacks 2016)
 
 ![Blue Ocean 1](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-31-pm.png) | ![Blue Ocean 2](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-21-pm.png) | ![Blue Ocean 3](/img/Portfolio/Blue Ocean Logo Drafts (BizHacks 2016)/screen-shot-2016-03-20-at-10-40-14-pm.png)
