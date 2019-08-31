@@ -4,6 +4,10 @@ title: Portfolio
 subtitle: Some of my past work and projects
 ---
 
+The Gaming Stadium Graphics
+
+![Overwatch Sigma Blog Post Graphic](/img/Portfolio/The Gaming Stadium Graphics/SigmaBlogPhoto.png)
+
 Twitch Emotes
 
 ![AmostsYay Twitch Emote](/img/Portfolio/Twitch Emotes/AmostsYay_112x112.png) | ![AmostsNotLikeThis Twitch Emote](/img/Portfolio/Twitch Emotes/NotLikeAmostsV2_112x112.png)
