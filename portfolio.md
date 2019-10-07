@@ -6,7 +6,7 @@ subtitle: Some of my past work and projects
 
 The Gaming Stadium Graphics
 
-![Overwatch Sigma Blog Post Graphic](/img/Portfolio/The Gaming Stadium Graphics/SigmaBlogPhoto.png) | 
+![Overwatch Sigma Blog Post Graphic](./img/Portfolio/The Gaming Stadium Graphics/SigmaBlogPhoto.png) | 
 
 Twitch Emotes
 
