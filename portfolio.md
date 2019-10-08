@@ -4,13 +4,17 @@ title: Portfolio
 subtitle: Some of my past work and projects
 ---
 
+Flying Octocat Game Assets (UBC Hackathon Project)
+
+![Flying Graphic](/img/Portfolio/Flying Octocat Game Assets/Flying.png) | ![Octocat Text Graphic](/img/Portfolio/Flying Octocat Game Assets/Octocat.png) | ![Octocat Game Over Graphic](/img/Portfolio/Flying Octocat Game Assets/GameOver.png) | ![Octocat Skills Graphic](/img/Portfolio/Flying Octocat Game Assets/Skills.png) | ![Octocat Power Button](/img/Portfolio/Flying Octocat Game Assets/PowerButton.png)
+
 The Gaming Stadium Graphics
 
 ![Overwatch Sigma Blog Post Graphic](./img/Portfolio/The Gaming Stadium Graphics/SigmaBlogPhoto.png) | 
 
 Twitch Emotes
 
-![AmostsYay Twitch Emote](/img/Portfolio/Twitch Emotes/AmostsYay_112x112.png) | ![AmostsNotLikeThis Twitch Emote](/img/Portfolio/Twitch Emotes/NotLikeAmostsV2_112x112.png)
+![Yay Twitch Emote](/img/Portfolio/Twitch Emotes/Yay_112x112.png) | ![NotLikeThis Twitch Emote](/img/Portfolio/Twitch Emotes/NotLikeThisV2_112x112.png)
 
 Blue Ocean Logo Drafts (BizHacks 2016)
 
