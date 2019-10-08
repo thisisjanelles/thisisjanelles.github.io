@@ -14,7 +14,7 @@ The Gaming Stadium Graphics
 
 Twitch Emotes
 
-![Yay Twitch Emote](/img/Portfolio/Twitch Emotes/Yay_112x112.png) | ![NotLikeThis Twitch Emote](/img/Portfolio/Twitch Emotes/NotLikeThisV2_112x112.png)
+![Yay Twitch Emote](/img/Portfolio/Twitch Emotes/Yay_112x112.png) | ![NotLikeThis Twitch Emote](/img/Portfolio/Twitch Emotes/NotLikeThiV2_112x112.png)
 
 Blue Ocean Logo Drafts (BizHacks 2016)
 
