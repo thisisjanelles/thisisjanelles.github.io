@@ -6,7 +6,8 @@ subtitle: Some of my past work and projects
 
 Flying Octocat Game Assets (UBC Hackathon Project)
 
-![Flying Graphic](/img/Portfolio/Flying Octocat Game Assets/Flying.png) | ![Octocat Text Graphic](/img/Portfolio/Flying Octocat Game Assets/Octocat.png) | ![Octocat Game Over Graphic](/img/Portfolio/Flying Octocat Game Assets/GameOver.png) | ![Octocat Skills Graphic](/img/Portfolio/Flying Octocat Game Assets/Skills.png) | ![Octocat Power Button](/img/Portfolio/Flying Octocat Game Assets/PowerButton.png)
+![Flying Graphic](/img/Portfolio/Flying Octocat Game Assets/Flying.png) | ![Octocat Text Graphic](/img/Portfolio/Flying Octocat Game Assets/Octocat.png) | ![Octocat Game Over Graphic](/img/Portfolio/Flying Octocat Game Assets/GameOver.png)
+![Octocat Skills Graphic](/img/Portfolio/Flying Octocat Game Assets/Skills.png) | ![Octocat Power Button](/img/Portfolio/Flying Octocat Game Assets/PowerButton.png)
 
 The Gaming Stadium Graphics
 
