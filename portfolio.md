@@ -26,8 +26,7 @@ DatesNDeadlines Mobile App Prototype
 
 UBC Launch Pad Business Cards and Event List Graphics
 
-![Launch Pad Card Front](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/card-1-front-hex.png) | ![Launch Pad Card Back](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/card-1-back.jpg)
-![Launch Pad February](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/februaryeventsv2.jpg) | ![Launch Pad March](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/marcheventsv2.jpg)
+![Launch Pad Card Front](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/card-1-front-hex.png) | ![Launch Pad Card Back](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/card-1-back.jpg) | ![Launch Pad February](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/februaryeventsv2.jpg) | ![Launch Pad March](/img/Portfolio/UBC Launch Pad Business Cards and Event List Graphics/marcheventsv2.jpg)
 
 SILESTONE Philippines Print Ads
 
