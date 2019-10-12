@@ -23,8 +23,7 @@ Blue Ocean Logo Drafts (BizHacks 2016)
 
 DatesNDeadlines Mobile App Prototype
 
-![DatesNDeadlines Home](/img/Portfolio/DatesNDeadlines Prototype/Home.png) | ![DatesNDeadlines Capture](/img/Portfolio/DatesNDeadlines Prototype/Capture.png) | ![DatesNDeadlines List](/img/Portfolio/DatesNDeadlines Prototype/List.png)
-![DatesNDeadlines Edit](/img/Portfolio/DatesNDeadlines Prototype/Edit.png) |![DatesNDeadlines Share](/img/Portfolio/DatesNDeadlines Prototype/Share.png)
+![DatesNDeadlines Home](/img/Portfolio/DatesNDeadlines Prototype/Home.png) | ![DatesNDeadlines Capture](/img/Portfolio/DatesNDeadlines Prototype/Capture.png) | ![DatesNDeadlines List](/img/Portfolio/DatesNDeadlines Prototype/List.png) | ![DatesNDeadlines Edit](/img/Portfolio/DatesNDeadlines Prototype/Edit.png) |![DatesNDeadlines Share](/img/Portfolio/DatesNDeadlines Prototype/Share.png)
 
 UBC Launch Pad Business Cards and Event List Graphics
 
