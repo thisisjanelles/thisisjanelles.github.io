@@ -14,7 +14,7 @@ Flying Octocat Game Assets (UBC Hackathon Project)
 
 Blog/Social Media Graphics
 
-![Overwatch Sigma Blog Post Graphic](./img/Portfolio/The Gaming Stadium Graphics/SigmaBlogPhoto.png)
+![Overwatch Sigma Blog Post Graphic](/img/Portfolio/The Gaming Stadium Graphics/SigmaBlogPhoto.png) | ![League of Legends Graphic](/img/Portfolio/The Gaming Stadium Graphics/tldrleague10.png)
 
 Twitch Emotes
 
