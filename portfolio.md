@@ -4,9 +4,9 @@ title: Portfolio
 subtitle: Some of my past work and projects
 ---
 
-Profile Photos
+Stream Profiles/Graphics
 
-![Profile Photo 1](/img/Portfolio/Profile Photos/ProfileChicken.png)
+![Profile Photo 1](/img/Portfolio/Profile Photos/ProfileChicken.png) | ![Stream Panels](/img/Portfolio/Stream Graphics/Panels.png)
 
 Flying Octocat Game Assets (UBC Hackathon Project)
 
